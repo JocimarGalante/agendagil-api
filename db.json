@@ -1,11 +1,16 @@
 {
-  "consultas": [
+  "users": [
     {
       "id": 1,
-      "paciente": "Jocimar Galante",
-      "data": "2025-07-01",
-      "hora": "14:00",
-      "medico": "Dra. Maria"
+      "email": "user@agendagil.com",
+      "password": "123456",
+      "name": "Usuário Teste"
+    },
+    {
+      "id": 2,
+      "email": "admin@agendagil.com",
+      "password": "admin123",
+      "name": "Administrador"
     }
   ]
 }
