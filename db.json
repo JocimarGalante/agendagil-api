@@ -1,0 +1,11 @@
+{
+  "consultas": [
+    {
+      "id": 1,
+      "paciente": "Jocimar Galante",
+      "data": "2025-07-01",
+      "hora": "14:00",
+      "medico": "Dra. Maria"
+    }
+  ]
+}
