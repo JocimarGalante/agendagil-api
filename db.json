@@ -4,21 +4,21 @@
       "id": 1,
       "email": "paciente@agendagil.com",
       "senha": "12345",
-      "nome": "Paciente",
+      "nome": "Pedro Oliveira dos Santos",
       "tipo": "paciente"
     },
     {
       "id": 2,
       "email": "medico@agendagil.com",
       "senha": "12345",
-      "nome": "Médico",
+      "nome": "Dra. Fernanda Martins",
       "tipo": "medico"
     },
     {
       "id": 3,
       "email": "admin@agendagil.com",
       "senha": "admin123",
-      "nome": "Administrador",
+      "nome": "Carlos Henrique Lima",
       "tipo": "administrador"
     }
   ]
