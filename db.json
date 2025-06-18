@@ -5,21 +5,68 @@
       "email": "paciente@agendagil.com",
       "senha": "12345",
       "nome": "Pedro Oliveira dos Santos",
-      "tipo": "paciente"
+      "tipo": "paciente",
+      "isMedico": false,
+      "crm": "" 
     },
     {
       "id": 2,
       "email": "medico@agendagil.com",
       "senha": "12345",
       "nome": "Dra. Fernanda Martins",
-      "tipo": "medico"
+      "tipo": "medico",
+      "isMedico": true,
+      "crm": ""
     },
     {
       "id": 3,
       "email": "admin@agendagil.com",
       "senha": "admin123",
       "nome": "Carlos Henrique Lima",
-      "tipo": "administrador"
+      "tipo": "administrador",
+      "isMedico": false,
+      "crm": ""
+    },
+    {
+      "nome": "Jocimar Galante",
+      "email": "jocimargalante@gmail.com",
+      "senha": "12345",
+      "isMedico": false,
+      "crm": "",
+      "tipo": "paciente",
+      "id": 4
+    }
+  ],
+  "consultas": [
+    {
+      "id": 1,
+      "paciente": "Pedro Oliveira dos Santos",
+      "medico": "Dr. João Silva",
+      "especialidade": "Cardiologia",
+      "local": "Clínica Saúde BH",
+      "data": "2025-06-20",
+      "hora": "14:30",
+      "status": 1
+    },
+    {
+      "id": 2,
+      "paciente": "Jocimar",
+      "medico": "Dra. Ana Paula",
+      "especialidade": "Dermatologia",
+      "local": "Hospital Central",
+      "data": "2025-06-25",
+      "hora": "09:00",
+      "status": 2
+    },
+    {
+      "id": 3,
+      "paciente": "Jocimar",
+      "medico": "Dr. Carlos Alberto",
+      "especialidade": "Ortopedia",
+      "local": "Centro Médico",
+      "data": "2025-06-28",
+      "hora": "11:00",
+      "status": 3
     }
   ]
 }
