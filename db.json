@@ -5,7 +5,7 @@
       "email": "paciente@agendagil.com",
       "senha": "12345",
       "nome": "Pedro Oliveira dos Santos",
-      "tipo": "paciente",
+      "tipo": "PACIENTE",
       "isMedico": false,
       "crm": "" 
     },
@@ -14,7 +14,7 @@
       "email": "medico@agendagil.com",
       "senha": "12345",
       "nome": "Dra. Fernanda Martins",
-      "tipo": "medico",
+      "tipo": "PROFISSIONAL_AUTONOMO",
       "isMedico": true,
       "crm": ""
     },
@@ -23,7 +23,7 @@
       "email": "admin@agendagil.com",
       "senha": "admin123",
       "nome": "Carlos Henrique Lima",
-      "tipo": "administrador",
+      "tipo": "ADMINISTRADOR",
       "isMedico": false,
       "crm": ""
     },
@@ -33,7 +33,7 @@
       "senha": "12345",
       "isMedico": false,
       "crm": "",
-      "tipo": "paciente",
+      "tipo": "PACIENTE",
       "id": 4
     }
   ],
