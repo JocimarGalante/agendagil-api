@@ -68,5 +68,57 @@
       "hora": "11:00",
       "status": 3
     }
+  ],
+  "especialidades": [
+    {
+      "id": 1,
+      "nome": "Cardiologia"
+    },
+    {
+      "id": 2,
+      "nome": "Dermatologia"
+    },
+    {
+      "id": 3,
+      "nome": "Ortopedia"
+    },
+    {
+      "id": 4,
+      "nome": "Pediatria"
+    },
+    {
+      "id": 5,
+      "nome": "Ginecologia"
+    }
+  ],
+  "medicos": [
+    {
+      "id": 1,
+      "nome": "Dr. João Silva",
+      "especialidadeId": 1,
+      "crm": "CRM/SP 123456",
+      "local": "Clínica Saúde BH"
+    },
+    {
+      "id": 2,
+      "nome": "Dra. Ana Paula",
+      "especialidadeId": 2,
+      "crm": "CRM/MG 654321",
+      "local": "Hospital Central"
+    },
+    {
+      "id": 3,
+      "nome": "Dr. Carlos Alberto",
+      "especialidadeId": 3,
+      "crm": "CRM/RJ 789012",
+      "local": "Centro Médico"
+    },
+    {
+      "id": 4,
+      "nome": "Dra. Mariana Costa",
+      "especialidadeId": 4,
+      "crm": "CRM/SP 345678",
+      "local": "Clínica Infantil"
+    }
   ]
 }
